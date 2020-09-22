@@ -1,0 +1,44 @@
+html {
+    background-color: #fff;
+    padding-top: 30px;
+}
+body {
+    background-color: #DDFFDD;
+    /*body középre zárása*/
+    width: 50%;
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 8px #888;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+}
+.belso{
+    list-style-type: none;
+    padding-bottom: 20px;
+}
+
+
+img {
+    width: 110px;
+    float: right;
+}
+#terkep {
+    float: none;
+    display: block;
+    width: 500px;
+    margin: auto;
+}
+.behuz {
+    font-weight: normal;
+    text-indent: 50px;
+}
